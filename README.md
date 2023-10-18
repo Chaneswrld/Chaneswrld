@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chaneswrld or you can call me Cheyne (pronounced "Shane")
 - 👀 I’m interested in Cybersec, Networking and currently into coding 
-- 🌱 I’m currently learning Swift and working towards a cert in CompTIA A+
+- 🌱 I’m currently learning Swift and working towards a cert in CompTIA A+ ( also taking a career path course on codecademy on Full-Stack Engineering)
 - 💞️ I’m looking to collaborate on future IOS app development.
 - 📫 How to reach me: either on linkdn or my email - cheyne_burberry@yahoo.com
 
