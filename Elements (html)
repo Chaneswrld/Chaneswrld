@@ -1,0 +1,29 @@
+//<div>s don’t inherently have a visual representation, but they are very useful when we want to apply custom styles to our HTML elements. 
+//<div>s allow us to group HTML elements to apply the same styles for all HTML elements inside. 
+//We can also style the <div> element as a whole.
+
+//Attributes//
+One commonly used attribute is the id. 
+We can use the id attribute to specify different content (such as <div>s) and is really helpful when you use an element more than once. 
+ids have several different purposes in HTML, but for now, we’ll focus on how they can help us identify content on our page.
+
+<span> *Element*
+It’s best to use a <span> element when you want to target a specific piece of content that is inline, or on the same line as other text. 
+f you want to divide your content into blocks, it’s better to use a <div>.
+
+<body>
+  <h1>The Brown Bear</h1>
+    <div id="introduction">
+      <h2>About Brown Bears</h2>
+      <h3>Species</h3>
+      <h3>Features</h3>
+    </div>
+    <div>
+      <h2>Habitat</h2>
+      <h3>Countries with Large Brown Bear Populations</h3>
+      <h3>Countries with Small Brown Bear Populations</h3>
+    </div>
+    <div> 
+      <h2>Media</h2>
+    </div>
+</body>
